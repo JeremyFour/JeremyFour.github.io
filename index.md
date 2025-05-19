@@ -16,3 +16,11 @@ I'm particularly enthusiastic about learning how Earth Data Science can bridge m
 * Ways to incorporate remote sensing data
 * Applications of machine learning to identiy patterns
 * Techniques for creating interactive data dashboards
+
+
+
+
+<p align="center">
+  <img src="img/Jeremy.DataSci.EarthSci.png" width="400" alt="Image of Jeremy Maker, data science, and earth science">
+</p>
+
