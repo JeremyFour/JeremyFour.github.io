@@ -1,4 +1,4 @@
-## Jeremy Maker
+## Jeremy
 Hello!  I am an [ESIIL](https://esiil.org/) student for the summer 2025 term. I am excited to work with you all this year.  
 
 #### Contact Information
