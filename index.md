@@ -18,6 +18,7 @@ I'm particularly enthusiastic about learning how Earth Data Science can bridge m
 * Techniques for creating interactive data dashboards
 
 
+<embed type="text/html" src="haskell.html" width="600" height="600">
 
 
 <p align="center">
