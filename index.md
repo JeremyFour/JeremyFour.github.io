@@ -17,8 +17,10 @@ I'm particularly enthusiastic about learning how Earth Data Science can bridge m
 * Applications of machine learning to identiy patterns
 * Techniques for creating interactive data dashboards
 
+<p align="center">
+  <img src="img/haskellnew.png" width="400" alt="Image of Jeremy Maker, data science, and earth science">
+</p>
 
-<embed type="text/html" src="haskell.html" width="600" height="600">
 
 
 <p align="center">
